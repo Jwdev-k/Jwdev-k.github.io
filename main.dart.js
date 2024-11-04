@@ -80490,7 +80490,7 @@ xQ(a,b,c){return this.ago(a,b,c)},
 ago(a,b,c){var s=0,r=A.O(t.Rs),q,p=2,o,n,m,l,k,j,i,h,g,f
 var $async$xQ=A.P(function(d,e){if(d===1){o=e
 s=p}while(true)switch(s){case 0:p=4
-h=A.ex("http://175.124.195.143:5252/auction/list")
+h=A.ex("https://175.124.195.143:5252/auction/list")
 n=A.A(t.N,t.z)
 if(a!=null)J.hG(n,"auction_item_category",a)
 if(c!=null)J.hG(n,"item_name",c)
@@ -80528,7 +80528,7 @@ xP(a,b,c){return this.agn(a,b,c)},
 agn(a,b,c){var s=0,r=A.O(t.QO),q,p=2,o,n,m,l,k,j,i,h,g,f
 var $async$xP=A.P(function(d,e){if(d===1){o=e
 s=p}while(true)switch(s){case 0:p=4
-h=A.ex("http://175.124.195.143:5252/auction/history")
+h=A.ex("https://175.124.195.143:5252/auction/history")
 n=A.A(t.N,t.z)
 J.hG(n,"item_name",c)
 if(b!=null)J.hG(n,"cursor",b)
@@ -81614,7 +81614,7 @@ xS(a,b,c){return this.agq(a,b,c)},
 agq(a,b,c){var s=0,r=A.O(t.fc),q,p=2,o,n,m,l,k,j,i,h
 var $async$xS=A.P(function(d,e){if(d===1){o=e
 s=p}while(true)switch(s){case 0:p=4
-n=A.ex("http://175.124.195.143:5252/npcshop/list").u_(A.as(["npc_name",b,"server_name",c,"channel",a],t.N,t.z))
+n=A.ex("https://175.124.195.143:5252/npcshop/list").u_(A.as(["npc_name",b,"server_name",c,"channel",a],t.N,t.z))
 s=7
 return A.W(A.aoL(n).pB(B.fC),$async$xS)
 case 7:m=e
