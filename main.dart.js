@@ -80924,7 +80924,7 @@ xR(a){return this.agp(a)},
 agp(a){var s=0,r=A.O(t.Jj),q,p=2,o,n,m,l,k,j,i,h,g,f
 var $async$xR=A.P(function(b,c){if(b===1){o=c
 s=p}while(true)switch(s){case 0:p=4
-h=A.ex("http://175.124.195.143:5252/hornbugle/history")
+h=A.ex("https://175.124.195.143:5252/hornbugle/history")
 n=A.A(t.N,t.z)
 if(a!=null)J.hG(n,"server_name",a)
 m=h.u_(n)
