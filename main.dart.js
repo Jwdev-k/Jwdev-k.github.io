@@ -81596,7 +81596,7 @@ return A.HP(A.W(a,s,s,s,s,A.cz(s,s,r,s,s,s,s,s,s,s,s,14,s,s,s,s,s,!0,s,s,s,s,s,s
 $S:66}
 A.a8d.prototype={
 $2(a,b){var s=null,r=this.a,q=r.a.e,p=this.b,o=t.p,n=r.e,m="assets/images/npcs/"+n,l=p.c,k=p.d
-return q?A.bd(A.b([new A.aU(B.cj,A.bd(A.b([A.cQ(A.hY(m+".webp",B.de,s,s),200,150),A.W(n,s,s,s,s,B.ky,s,s),A.bd(A.b([A.W("\uc0c1\uc810 \uae30\uc900 \uc2dc\uac04 : "+A.Fr(l),s,s,s,s,s,s,s),A.W("\ub2e4\uc74c \uc0c1\uc810 \uac31\uc2e0 \uc2dc\uac04 : "+A.Fr(k),s,s,s,s,s,s,s)],o),B.K,B.n,B.l)],o),B.o,B.n,B.l),s),A.cE(r.Qm(p),1)],o),B.o,B.aG,B.l):A.bo(A.b([new A.aU(B.cj,A.bd(A.b([A.hY(m+".webp",B.de,400,200),A.W(n,s,s,s,s,B.R8,s,s),A.bd(A.b([A.W("\uc0c1\uc810 \uae30\uc900 \uc2dc\uac04 : "+A.Fr(l),s,s,s,s,s,s,s),A.W("\ub2e4\uc74c \uc0c1\uc810 \uac31\uc2e0 \uc2dc\uac04 : "+A.Fr(k),s,s,s,s,s,s,s)],o),B.K,B.n,B.l)],o),B.o,B.n,B.l),s),A.cE(r.Qm(p),1)],o),B.K,B.n,B.l)},
+return q?A.bd(A.b([new A.aU(B.cj,A.bd(A.b([A.cQ(A.hY(m+".webp",B.de,s,s),100,80),A.W(n,s,s,s,s,B.ky,s,s),A.bd(A.b([A.W("\uc0c1\uc810 \uae30\uc900 \uc2dc\uac04 : "+A.Fr(l),s,s,s,s,s,s,s),A.W("\ub2e4\uc74c \uc0c1\uc810 \uac31\uc2e0 \uc2dc\uac04 : "+A.Fr(k),s,s,s,s,s,s,s)],o),B.K,B.n,B.l)],o),B.o,B.n,B.l),s),A.cE(r.Qm(p),1)],o),B.o,B.aG,B.l):A.bo(A.b([new A.aU(B.cj,A.bd(A.b([A.hY(m+".webp",B.de,400,200),A.W(n,s,s,s,s,B.R8,s,s),A.bd(A.b([A.W("\uc0c1\uc810 \uae30\uc900 \uc2dc\uac04 : "+A.Fr(l),s,s,s,s,s,s,s),A.W("\ub2e4\uc74c \uc0c1\uc810 \uac31\uc2e0 \uc2dc\uac04 : "+A.Fr(k),s,s,s,s,s,s,s)],o),B.K,B.n,B.l)],o),B.o,B.n,B.l),s),A.cE(r.Qm(p),1)],o),B.K,B.n,B.l)},
 $S:531}
 A.a8j.prototype={
 $1(a){return new A.pn(a.a,null)},
